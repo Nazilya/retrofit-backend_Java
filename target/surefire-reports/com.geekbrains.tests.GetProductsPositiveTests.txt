@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.geekbrains.tests.GetProductsPositiveTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.272 s <<< FAILURE! - in com.geekbrains.tests.GetProductsPositiveTests
-com.geekbrains.tests.GetProductsPositiveTests.getProducts  Time elapsed: 0.215 s  <<< ERROR!
-java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.toString()" because the return value of "retrofit2.Response.body()" is null
-	at com.geekbrains.tests.GetProductsPositiveTests.getProducts(GetProductsPositiveTests.java:27)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.202 s - in com.geekbrains.tests.GetProductsPositiveTests
