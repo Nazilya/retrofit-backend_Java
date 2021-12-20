@@ -1,0 +1,8 @@
+com\geekbrains\service\ProductService.class
+com\geekbrains\utils\RetrofitUtils.class
+com\geekbrains\App.class
+com\geekbrains\dto\Category.class
+com\geekbrains\service\CategoryService.class
+com\geekbrains\enums\CategoryType.class
+com\geekbrains\utils\PrettyLogger.class
+com\geekbrains\dto\Product.class

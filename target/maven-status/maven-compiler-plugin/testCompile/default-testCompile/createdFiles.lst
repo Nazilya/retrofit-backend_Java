@@ -1,0 +1,13 @@
+com\geekbrains\tests\ModifyProductNegativeTests.class
+com\geekbrains\tests\GetProductByIdNegativeTests.class
+com\geekbrains\tests\CreateProductNegativeTests.class
+com\geekbrains\tests\getCategoryByIdNegativeTests.class
+com\geekbrains\tests\GetProductByIdPositiveTests.class
+com\geekbrains\tests\CreateProductPositiveTests.class
+com\geekbrains\tests\ModifyProductPositiveTests.class
+com\geekbrains\tests\DeleteProductPositiveTests.class
+com\geekbrains\tests\GetProductsNegativeTests.class
+com\geekbrains\tests\BaseTest.class
+com\geekbrains\tests\getCategoryByIdPositiveTests.class
+com\geekbrains\tests\GetProductsPositiveTests.class
+com\geekbrains\tests\DeleteProductNegativeTests.class
